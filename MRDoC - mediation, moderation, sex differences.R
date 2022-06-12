@@ -7,7 +7,7 @@
 # Mediator:  Victimisation
 # Moderators: Childhood Gender Nonconformity (CGN), retrospective Early-life Adversity (ELA)  
 # Heterogeneity variable: 	Sex
-# Covariate on Thresholds:	Age (mean-centered) and sex
+# Covariate on Thresholds:	Age and sex
 # Zygosity variable: 		zyg (1=MZM, 2=DZM, 3=MZF, 4=DZF, 5=OSDZ)
 # ------------------------------------------------------------------------------------
 
